@@ -2,7 +2,7 @@ var heix = {
     routes: [],
     /**
      * @func heix#addRoute
-     * @desc registring EventListener click for all of elements from selector to change url by History API
+     * @desc registring EventListener click for all of elements from selector to change url by History API.
      * @param {String} mode data
      * @param {Selector} selector='body' - CSS Selector
      * @param {Function} callback
