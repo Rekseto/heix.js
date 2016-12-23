@@ -25,7 +25,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.use(function (req, res, next) {
-    if (req.url.endsWith('.html') == false || req.url.endsWith('.json') || req.url.endsWith('.xml')) {
+    if (req.url.endsWith('.html') == false || req.url.endsWith('.json') == false || req.url.endsWith('.xml') == false) {
         res.render('index');
     }
 
