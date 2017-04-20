@@ -1,0 +1,25 @@
+{
+  "name": "heix",
+  "version": "0.0.4",
+  "description": "JS router",
+  "main": "heix.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rekseto/heix.js.git"
+  },
+  "author": "Rekseto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rekseto/heix.js/issues"
+  },
+  "dependencies": {
+  },
+  "homepage": "https://github.com/Rekseto/heix.js#readme"
+}
