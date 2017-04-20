@@ -1,7 +1,7 @@
 {
   "name": "heix",
   "version": "0.0.4",
-  "description": "JS router",
+  "description": "simple JS router",
   "main": "heix.js",
   "directories": {
     "test": "test"
